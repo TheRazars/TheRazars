@@ -17,7 +17,7 @@ I'm Stefan. I build websites and enjoy creating personal projects.
 
 ### 🎯 Goals
 
-- Become a better web developer.
+- Become a better web developer!
 
 ### 😁 Fun facts
 
