@@ -21,6 +21,6 @@ I'm Stefan. I build websites and enjoy creating personal projects.
 
 ### 😁 Fun facts
 
-- 🌅 I love sunsets.
-- 🐈 I have three cats (two females and one male).
-- 🧊 I proudly own a refrigerator.
+- 🌅 I love sunsets
+- 🐈 I have three cats keeping me company
+- 🧊 I successfully own a refrigerator
