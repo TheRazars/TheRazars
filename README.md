@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**TheRazars/TheRazars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stefan. I build websites and enjoy creating personal projects.
 
-Here are some ideas to get you started:
+### 💻 Working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### 🌱 Currently learning
+
+- German 🇩🇪
+- JavaScript
+- Backend Development
+
+### 🎯 Goals
+
+- Become a better web developer.
+
+### 😁 Fun facts
+
+- 🌅 I love sunsets.
+- 🐈 I have three cats (two females and one male).
+- 🧊 I proudly own a refrigerator.
